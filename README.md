@@ -1,6 +1,6 @@
 ![screenshot](screenshot.png)
 
-Frappy bird! Save your decoupled brothers from the sinking island.
+Frappy Bird! Save your decoupled brothers from the sinking island.
 
 WASD or arrow keys to move, Space to couple.
 
